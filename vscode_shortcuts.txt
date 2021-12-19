@@ -1,0 +1,44 @@
+VSCODE SHORTCUTS:
+	Move line up / down													-	Alt + Up / Down arrow
+	Delete line															-	Ctrl + K
+	Insert line above													-	Ctrl + Shft + Enter
+	Jump to matching bracket											-	Ctrl + Shft + \
+	Indent / Outdent line												-	Ctrl + [ / ]
+	Opens definition													-	F12
+	Opens definition to side											-	Ctrl + K F12
+	Find in a file														-	Ctrl + F
+	Replace																-	Ctrl + H
+	Doc String															-	Ctrl + Shft + A (for python)
+	Go to line															-	Ctrl + G
+	Go to symbol														-	Ctrl + Shft + O
+	Open Problem bar													-	Ctrl + Shft + M
+	lists recently opened projects										-	Ctrl + R
+	lists recently opened files											-	Ctrl + P
+	Close a file														-	Ctrl + W
+	Close all opened files												-	Ctrl + K W
+	Code folding / unfolding											-	Ctrl + Shft + [ / ]
+	Opens external terminal of current working directory				-	Ctrl + Shft + C
+	Opens last close file												-	Ctrl + Shft + T
+	Split vertical / horizontal tabs									-	Ctrl + \
+	Toggle between Horizontal / Vertical tabs							-	Ctrl + 1 / 2 / 3 / ...
+	Opens / Toggle Terminal												-	Ctrl + `
+	Open settings														- 	Ctrl + ,
+	Command Palete														-	Ctrl + Shft + P
+	Balance inward / outward											-	Ctrl + Shft + P and Type Balance Outward / Inward
+	
+	Show / Hide toggle bar												-	Ctrl + B
+	Explorer															-	Ctrl + Shft + E
+	Global Search														-	Ctrl + Shft + F
+	Global Replace														-	Ctrl + Shft + H
+	Git																	-	Ctrl + Shft + G
+	Debugger															-	Ctrl + Shft + D
+	Extension															-	Ctrl + Shft + X
+	Zen mode															-	Ctrl + K Z
+	Editor themes														-	Ctrl + K Ctrl + T
+
+Advanced-new-file and File-utils extension shortcuts:
+	Create a new file													-	Ctrl + N
+	Delete																- 	Ctrl + Shft + P and Type delete
+	Move																- 	Ctrl + Shft + P and Type move
+	Rename																- 	Ctrl + Shft + P and Type rename
+
